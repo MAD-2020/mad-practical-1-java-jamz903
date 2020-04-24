@@ -10,7 +10,7 @@ public class Question5
     ArrayList<Integer> data = new ArrayList<>();
     
     for(int i=1; i<=no; i++){
-      System.out.print("Enter Integer " + i + ":");
+      //System.out.print("Enter Integer " + i + ":");
       data.add(in.nextInt());
     }
     
